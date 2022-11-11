@@ -3,4 +3,12 @@ Sempre existe espaço para fazer tudo o que lhe é do teu interesse. Resta a voc
 
 O guerreiro que ora nunca ganhará do guerreiro que ora e treina.
 
+<<<<<<< HEAD
 Sou Paulo Marinato;
+=======
+linha em branco
+
+>>>>>>> 989971d786441b77c5706b29246104711f0b5c0f
+
+n2
+
