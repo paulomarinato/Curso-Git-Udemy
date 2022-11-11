@@ -5,6 +5,7 @@ O guerreiro que ora nunca ganhará do guerreiro que ora e treina.
 
 <<<<<<< HEAD
 Sou Paulo Marinato;
+<<<<<<< HEAD
 =======
 linha em branco
 
@@ -12,3 +13,7 @@ linha em branco
 
 n2
 
+=======
+
+test
+>>>>>>> funcionalidades
